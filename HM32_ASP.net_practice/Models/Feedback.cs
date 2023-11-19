@@ -1,0 +1,8 @@
+﻿namespace HM32_ASP.net_practice.Models
+{
+    public class Feedback
+    {
+        public string From { get; set; }
+        public string Text { get; set; }
+    }
+}
